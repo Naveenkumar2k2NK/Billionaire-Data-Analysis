@@ -1,4 +1,4 @@
-##### The Billionaire Data Analysis Project
+# The Billionaire Data Analysis Project
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-**Project Overview**
+## **Project Overview**
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-**Key Insights**
+## **Key Insights**
 
 
 
@@ -46,13 +46,14 @@ Some of the insights derived from the Excel dashboard and pivot tables include:
 
 
 
-###### Author
+## Author
 
 **Naveen Kumar**
 
 Aspiring Data Analyst skilled in Excel, SQL, Power BI, and Python
 
 \[[linkedin.com/in/naveen-kumar-ababa7326](https://www.linkedin.com/in/naveen-kumar-ababa7326/)]
+
 
 
 
